@@ -1,15 +1,15 @@
 <p align="center">
   <a href="https://github.com/DarkBear0121">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+BOT+WORLD!;Cloud%20Computing%20Currently%20Working;Good%20Sense%20Of%20Humour;Always%20Learning%20New%20Things&center=true&width=500&height=50">
-<img src="https://cdn.discordapp.com/attachments/975036883958636557/975080429197590618/tumblr_00fca58e088e62fee1268fba5e7196d0_ab2ffa4a_500.webp" width="800">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+BOT+WORLD!;Python%20With%20Selenium;Cloud%20Computing%20Currently%20Working;Good%20Sense%20Of%20Humour;Always%20Learning%20New%20Things&center=true&width=500&height=50">
 </a>
+<a href="https://github.com/gururam147/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=gururam147&style=for-the-badge">
+</a>
+
 </p>
 <img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
 <p align="center">
-
- <img src="https://komarev.com/ghpvc/?username=gururam147&style=for-the-badge">
-</a>
-
+  
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/gururam147/github-profile-views-counter
 
@@ -27,9 +27,7 @@
 <h1 align="center">Hi 👋 I'm GURU_RAM</h1>
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
-- 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩:- Web Developer
-- 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:-𝙁𝙞𝙧𝙨𝙩 𝙋𝙚𝙧𝙨𝙤𝙣 𝙏𝙤 𝙐𝙥𝙡𝙤𝙖𝙙 𝘽𝙤𝙤𝙠𝙈𝙮𝙎𝙝𝙤𝙬 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨 & 500+ 𝙉𝙤𝙣 𝙎𝙩𝙤𝙥 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝙐𝙨𝙞𝙣𝙜 10 𝘼𝙘𝙘𝙤𝙪𝙣𝙩 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩 𝙏𝙤 𝙂𝙞𝙩𝙃𝙪𝙗 
-
+- 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩:- Web Developer 
 
 # 🌐Contact:-
 
@@ -38,7 +36,7 @@
  </a>
                                     
  <a href="https://www.instagram.com/guru0707_/">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
  </a>
                                          
  

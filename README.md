@@ -1,26 +1,25 @@
 <p align="center">
   <a href="https://github.com/DarkBear0121">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+BOT+WORLD!;Python%20With%20Selenium;Cloud%20Computing%20Currently%20Working;Good%20Sense%20Of%20Humour;Always%20Learning%20New%20Things&center=true&width=500&height=50">
-</a>
-<a href="https://github.com/gururam147/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gururam147&style=for-the-badge">
-</a>
-
+    <img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+MY+WORLD!;Cloud%20Computing%20Currently%20Working;Good%20Sense%20Of%20Humour;Always%20Learning%20New%20Things&center=true&width=500&height=50">
+</a> 
 </p>
 <img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
 <p align="center">
+
+<a href="https://github.com/gururam147/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=gururam147&style=for-the-badge">
+</a>
   
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/gururam147/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
   
-![](https://img.shields.io/badge/Cyber%20Security-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
+![](https://img.shields.io/badge/Web%20Developer-WebSurfing%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
 <!--
 ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
 ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
 --> 
-<img src="https://cdn.discordapp.com/attachments/975036883958636557/975080429197590618/tumblr_00fca58e088e62fee1268fba5e7196d0_ab2ffa4a_500.webp" width="800">
   
 ![MasterHead](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)   
  
